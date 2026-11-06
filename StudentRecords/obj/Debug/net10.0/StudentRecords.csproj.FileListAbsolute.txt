@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\cs25108_Assignment\StudentRecords\obj\Debug\net10.0\StudentRecords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\cs25108_Assignment\StudentRecords\obj\Debug\net10.0\StudentRecords.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\cs25108_Assignment\StudentRecords\obj\Debug\net10.0\StudentRecords.AssemblyInfo.cs
+C:\Users\hp\Desktop\cs25108_Assignment\StudentRecords\obj\Debug\net10.0\StudentRecords.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\cs25108_Assignment\StudentRecords\bin\Debug\net10.0\StudentRecords.exe
+C:\Users\hp\Desktop\cs25108_Assignment\StudentRecords\bin\Debug\net10.0\StudentRecords.deps.json
+C:\Users\hp\Desktop\cs25108_Assignment\StudentRecords\bin\Debug\net10.0\StudentRecords.runtimeconfig.json
+C:\Users\hp\Desktop\cs25108_Assignment\StudentRecords\bin\Debug\net10.0\StudentRecords.dll
+C:\Users\hp\Desktop\cs25108_Assignment\StudentRecords\bin\Debug\net10.0\StudentRecords.pdb
+C:\Users\hp\Desktop\cs25108_Assignment\StudentRecords\obj\Debug\net10.0\StudentRecords.dll
+C:\Users\hp\Desktop\cs25108_Assignment\StudentRecords\obj\Debug\net10.0\refint\StudentRecords.dll
+C:\Users\hp\Desktop\cs25108_Assignment\StudentRecords\obj\Debug\net10.0\StudentRecords.pdb
+C:\Users\hp\Desktop\cs25108_Assignment\StudentRecords\obj\Debug\net10.0\StudentRecords.genruntimeconfig.cache
+C:\Users\hp\Desktop\cs25108_Assignment\StudentRecords\obj\Debug\net10.0\ref\StudentRecords.dll

@@ -1,0 +1,1 @@
+id = 66 , age = 55 , gender = mal , disease = short term memory lossid = 45 , age = 17 , gender = male , disease = short term memory loss
